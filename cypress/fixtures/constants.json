@@ -1,0 +1,4 @@
+{
+    "response_type": "application/json",
+    "allowed_headers": "GET, HEAD, OPTIONS"
+}
